@@ -1,12 +1,322 @@
 {
   "actor": [
     {
-      "id": 0,
-      "name": "dummy"
+      "id": 1,
+      "name": "Charles Chaplin",
+      "about": "/name/nm0000122/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
-      "id": 1,
-      "name": "dummy2"
+      "id": 2,
+      "name": "Marlon Brando",
+      "about": "/name/nm0000008/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_UY209_CR65,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jack Nicholson",
+      "about": "/name/nm0000197/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3OTY0ODk0M15BMl5BanBnXkFtZTYwNzE4Njc4._V1_UY209_CR5,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Daniel Day-Lewis",
+      "about": "/name/nm0000358/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2NDY2NDc1Ml5BMl5BanBnXkFtZTcwNjAyMjkwOQ@@._V1_UY209_CR9,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Meryl Streep",
+      "about": "/name/nm0000658/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4Mjk5MDExOF5BMl5BanBnXkFtZTcwOTU1MTMyMw@@._V1_UY209_CR4,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tom Hanks",
+      "about": "/name/nm0000158/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_UY209_CR2,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Mohanlal",
+      "about": "/name/nm0482320/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjFjZGRjMWYtZTA5MS00OTZkLWI1MjctNDQ2NmQzMWM1NzRhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Robert De Niro",
+      "about": "/name/nm0000134/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_UY209_CR9,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Anthony Hopkins",
+      "about": "/name/nm0000164/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_UY209_CR5,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Al Pacino",
+      "about": "/name/nm0000199/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Leonardo DiCaprio",
+      "about": "/name/nm0000138/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_UY209_CR7,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Joaquin Phoenix",
+      "about": "/name/nm0001618/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGMyY2Q4NTEtMWVkZS00NzcwLTkzNmQtYzBlMWZhZGNhMDhkXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Christoph Waltz",
+      "about": "/name/nm0910607/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4MDk3OTYxOF5BMl5BanBnXkFtZTcwMDk5OTUwOQ@@._V1_UY209_CR6,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Kamal Haasan",
+      "about": "/name/nm0352032/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmUxNTY0MWItODQ2My00YWMyLWFmODgtNTY1MTQ2ZjEwYzdlXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UY209_CR13,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Choi Min-sik",
+      "about": "/name/nm0158856/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDg4MDM3NDA0Ml5BMl5BanBnXkFtZTgwODExMzMyMjE@._V1_UY209_CR87,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Gary Oldman",
+      "about": "/name/nm0000198/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Heath Ledger",
+      "about": "/name/nm0005132/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Javier Bardem",
+      "about": "/name/nm0000849/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTc4NTYzMF5BMl5BanBnXkFtZTcwNDIwOTY1NA@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Mammootty",
+      "about": "/name/nm0007123/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFjOGIwMmUtY2FlMS00ZWJlLThhOWItY2RmY2JmYTc0YTk5XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Russell Crowe",
+      "about": "/name/nm0000128/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyMTExNTMxOF5BMl5BanBnXkFtZTcwNDg1NzkzNw@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Anupam Kher",
+      "about": "/name/nm0451600/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGRlY2UwZTQtMzRhMi00M2NmLThkODMtYTQ5NDI3YmMyMWUwXkEyXkFqcGdeQXVyMTU2NTc1MTY@._V1_UY209_CR3,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Christian Bale",
+      "about": "/name/nm0000288/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Naseeruddin Shah",
+      "about": "/name/nm0787462/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MDcyOTExOV5BMl5BanBnXkFtZTgwOTQyMDU0OTE@._V1_UY209_CR12,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 24,
+      "name": "George Clooney",
+      "about": "/name/nm0000123/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_UY209_CR7,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Sean Penn",
+      "about": "/name/nm0000576/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc1NjMzMjY3NF5BMl5BanBnXkFtZTcwMzkxNjQzMg@@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Kevin Spacey",
+      "about": "/name/nm0000228/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1NzMyODc3Nl5BMl5BanBnXkFtZTgwNzE2MzA1NDM@._V1_UY209_CR58,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Johnny Depp",
+      "about": "/name/nm0000136/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODU5Nzk2OV5BMl5BanBnXkFtZTcwMzI2ODgyNQ@@._V1_UY209_CR3,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Sean Connery",
+      "about": "/name/nm0000125/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzcwNTM4MzctYjQzMi00NTA2LTljYWItNTYzNmE1MTYxN2RlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY209_CR11,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Jennifer Lawrence",
+      "about": "/name/nm2225369/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Morgan Freeman",
+      "about": "/name/nm0000151/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Sandra Bullock",
+      "about": "/name/nm0000113/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5NDY5NjU3NF5BMl5BanBnXkFtZTcwMzQ0MTMyMw@@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Clint Eastwood",
+      "about": "/name/nm0000142/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3MDc0MjY0OV5BMl5BanBnXkFtZTcwNzU1MDAxOA@@._V1_UY209_CR7,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Robin Williams",
+      "about": "/name/nm0000245/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTYzMjc2Mjg4MF5BMl5BanBnXkFtZTcwODc1OTQwNw@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Benedict Cumberbatch",
+      "about": "/name/nm1212722/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_UY209_CR2,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Tom Hiddleston",
+      "about": "/name/nm1089991/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWYwODAyZjAtOTQ1My00MDY2LTg0NDQtZGFiMDRiYzY4ZmM2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY209_CR7,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Denzel Washington",
+      "about": "/name/nm0000243/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5NDU2Mzc3MV5BMl5BanBnXkFtZTcwNjAwNTE5OQ@@._V1_UY209_CR8,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Amitabh Bachchan",
+      "about": "/name/nm0000821/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTk1OTUxMzIzMV5BMl5BanBnXkFtZTcwMzMxMjI0Nw@@._V1_UY209_CR6,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Cate Blanchett",
+      "about": "/name/nm0000949/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_UY209_CR2,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Bryan Cranston",
+      "about": "/name/nm0186505/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA2NjEyMTY4MTVeQTJeQWpwZ15BbWU3MDQ5NDAzNDc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Irrfan Khan",
+      "about": "/name/nm0451234/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDg3NDgxNzY4NF5BMl5BanBnXkFtZTcwODMxODQzMg@@._V1_UY209_CR8,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Jim Carrey",
+      "about": "/name/nm0000120/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1_UY209_CR15,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Dustin Hoffman",
+      "about": "/name/nm0000163/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3NzU0ODczMF5BMl5BanBnXkFtZTcwODEyMDY5Mg@@._V1_UY209_CR8,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Nicolas Cage",
+      "about": "/name/nm0000115/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_UY209_CR6,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Hugh Jackman",
+      "about": "/name/nm0413168/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDExMzIzNjk3Nl5BMl5BanBnXkFtZTcwOTE4NDU5OA@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Adrien Brody",
+      "about": "/name/nm0004778/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI3ODkxMjU3OF5BMl5BanBnXkFtZTgwMTk2Njk3MTE@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Edward Norton",
+      "about": "/name/nm0001570/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_UY209_CR11,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Matt Damon",
+      "about": "/name/nm0000354/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_UY209_CR8,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Brad Pitt",
+      "about": "/name/nm0000093/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Samuel L. Jackson",
+      "about": "/name/nm0000168/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Jake Gyllenhaal",
+      "about": "/name/nm0350453/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MTU2NDY3MF5BMl5BanBnXkFtZTgwNDU4ODkzMzE@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Martin Freeman",
+      "about": "/name/nm0293509/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0MjAwOTMzMF5BMl5BanBnXkFtZTcwMDg1MjEyNw@@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Jared Leto",
+      "about": "/name/nm0001467/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczMjUwNDUzMF5BMl5BanBnXkFtZTgwNDA4OTAzMTE@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Thilakan",
+      "about": "/name/nm0858128/?ref_=nmls_pst",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjFkNDQzMDAtMjJmMC00ZTVhLWE1NzMtNDQzM2RlZTUyNjkxXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     }
   ]
 }
